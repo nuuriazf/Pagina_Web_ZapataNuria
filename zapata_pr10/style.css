@@ -135,7 +135,7 @@ dl, dt, dd, ol, ul, li {
 }
 
 ::selection {
-	background: #1ABC9C;
+	background: #6B0605;
 	color: #FFF;
 	text-shadow: none;
 }
@@ -7478,7 +7478,7 @@ body:not(.device-touch) .button.button-full strong {
 .feature-box .fbox-icon i,
 .feature-box .fbox-icon img {
 	border-radius: 50%;
-	background-color: #1ABC9C;
+	background-color: #6B0605;
 }
 
 .feature-box .fbox-icon i {
@@ -7593,7 +7593,7 @@ body:not(.device-touch) .button.button-full strong {
 -----------------------------------------------------------------*/
 
 .feature-box.fbox-border .fbox-icon {
-	border: 1px solid #1ABC9C;
+	border: 1px solid #6B0605;
 	border-radius: 50%;
 }
 
@@ -7601,7 +7601,7 @@ body:not(.device-touch) .button.button-full strong {
 .feature-box.fbox-border .fbox-icon img {
 	border: none;
 	background-color: transparent !important;
-	color: #1ABC9C;
+	color: #6B0605;
 }
 
 .feature-box.fbox-border .fbox-icon { padding: 0; }
