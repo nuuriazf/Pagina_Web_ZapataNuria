@@ -406,11 +406,11 @@ span.middot {
 }
 
 .bgcolor,
-.bgcolor #header-wrap { background-color: #1ABC9C !important; }
+.bgcolor #header-wrap { background-color: #6B0605 !important; }
 
-.color { color: #1ABC9C !important; }
+.color { color: #6B0605 !important; }
 
-.border-color { border-color: #1ABC9C !important; }
+.border-color { border-color: #6B0605 !important; }
 
 .nobg { background: none !important; }
 
@@ -1187,7 +1187,7 @@ body.stretched #header.full-header .container {
 }
 
 #primary-menu ul li:hover > a,
-#primary-menu ul li.current > a { color: #1ABC9C; }
+#primary-menu ul li.current > a { color: #6B0605; }
 
 #primary-menu > ul > li.sub-menu > a > div { }
 
@@ -1202,7 +1202,7 @@ body.no-superfish #primary-menu li:hover > .mega-menu-content { display: block; 
 	background-color: #FFF;
 	box-shadow: 0px 13px 42px 11px rgba(0, 0, 0, 0.05);
 	border: 1px solid #EEE;
-	border-top: 2px solid #1ABC9C;
+	border-top: 2px solid #6B0605;
 	height: auto;
 	z-index: 199;
 	top: 100%;
@@ -2209,7 +2209,7 @@ body.top-search-open #top-account { opacity: 0; }
 
 #page-menu-wrap {
 	z-index: 99;
-	background-color: #1ABC9C;
+	background-color: #6B0605;
 	-webkit-transform: translate3d(0,0,0);
 	-ms-transform: translate3d(0,0,0);
 	-o-transform: translate3d(0,0,0);
@@ -3335,7 +3335,7 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner { left: auto; }
 #page-title {
 	position: relative;
 	padding: 50px 0;
-	background-color: #F5F5F5;
+	background-color: #8F5D6A;
 	border-bottom: 1px solid #EEE;
 }
 
@@ -3584,11 +3584,11 @@ body:not(.device-touch) .grid-container {
 
 .portfolio-filter li:last-child a { border-radius: 0 4px 4px 0; }
 
-.portfolio-filter li a:hover { color: #1ABC9C; }
+.portfolio-filter li a:hover { color: #6B0605; }
 
 .portfolio-filter li.activeFilter a {
 	color: #FFF !important;
-	background-color: #1ABC9C;
+	background-color: #6B0605;
 	margin: -1px 0;
 	padding: 13px 18px;
 	font-weight: bold;
@@ -3782,7 +3782,7 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-notitle .port
 
 .portfolio-desc h3 a { color: #222; }
 
-.portfolio-desc h3 a:hover { color: #1ABC9C; }
+.portfolio-desc h3 a:hover { color: #82003A; }
 
 .portfolio-desc span {
 	display: block;
@@ -6583,7 +6583,7 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
 	font-size: 14px;
 	height: 40px;
 	line-height: 40px;
-	background-color: #1ABC9C;
+	background-color: #6B0605;
 	color: #FFF;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -6612,7 +6612,7 @@ body:not(.device-touch) .button {
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 }
 
-.button.button-dark:hover { background-color: #1ABC9C; }
+.button.button-dark:hover { background-color: #82003A; }
 
 .button.button-mini {
 	padding: 0 14px;
@@ -7641,7 +7641,7 @@ body:not(.device-touch) .button.button-full strong {
 .feature-box.fbox-plain .fbox-icon img {
 	border: none !important;
 	background-color: transparent !important;
-	color: #1ABC9C;
+	color: #82003A;
 	border-radius: 0;
 }
 
@@ -10313,7 +10313,7 @@ body:not(.device-touch) .rounded-skill {
 	left: 0;
 	width: 0;
 	height: 100%;
-	background-color: #1ABC9C;
+	background-color: #821500;
 	overflow: visible !important;
 	border-radius: 2px;
 	-webkit-transition: width 1.2s ease-in-out;
@@ -11470,7 +11470,7 @@ input[type=checkbox]:not(:checked) + label.error { display: block !important; }
 	display: block;
 	background: transparent;
 	padding: 0 0 10px;
-	border-bottom: 2px solid #1ABC9C;
+	border-bottom: 2px solid #6B0605;
 }
 
 
@@ -11716,7 +11716,7 @@ body:not(.device-touch) #gotoTop {
 
 .stretched #gotoTop { bottom: 30px; }
 
-#gotoTop:hover { background-color: #1ABC9C; }
+#gotoTop:hover { background-color: #82003A; }
 
 
 /* ----------------------------------------------------------------

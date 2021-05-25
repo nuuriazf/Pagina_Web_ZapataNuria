@@ -6,11 +6,16 @@
 }
 
 p {
-	color: aliceblue;
+	color: #6c757de !important;
+	font-family: "maven-pro","Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif" !important;
+}
+h1{
+	font-family: unifrakturcook, unifrakturmaguntia, "germania-one", astloch !important; 
 	
 }
 
-h2 {
+
+h2, h1 {
 	color: aliceblue !important;
 }
 
@@ -18,4 +23,25 @@ body {
 	line-height: 1.5;
 	color: #555;
 	font-family: "maven-pro","Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif" !important;
+}
+
+span {
+	color: #6B0605 !important;
+	
+}
+
+ h3, h4, h5, h6 {
+	color: #3B1E1E !important;
+	
+}
+
+hover {
+	color: #6B0605 !important;
+	
+	
+}
+
+a {
+	color: #6B0605 !important;
+	
 }
