@@ -13762,3 +13762,10 @@ body:not(.no-transition) #wrapper,
 }
 
 
+.container-foto {
+    background-image: url("images/foto1yo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+   background-size: cover;
+  
+
